@@ -3,11 +3,11 @@ let Y1='FDR';
 let X2='log_AveExpr';
 let Y2='logFC';
 
-let Y_LABEL_SCATTER1 = 'logFC';
-let X_LABEL_SCATTER1 = '-Log10pval';
+let Y_LABEL_SCATTER1 = 'FDR';
+let X_LABEL_SCATTER1 = 'logFC';
 
-let Y_LABEL_SCATTER2 = 'AveExpr';
-let X_LABEL_SCATTER2 = 'logFC';
+let Y_LABEL_SCATTER2 = 'logFC';
+let X_LABEL_SCATTER2 = 'AveExpr';
 
 let FLIP_Y1=true;
 let FLIP_Y2=false;
